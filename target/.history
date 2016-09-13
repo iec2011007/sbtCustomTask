@@ -1,0 +1,17 @@
+compile
+run
+compile
+reload
+compile
+run
+reload
+console
+version
+reload
+console
+reload
+console
+reload
+test
+~test
+test
